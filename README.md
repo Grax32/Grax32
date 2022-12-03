@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Walker @Grax32
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning PySpark/DataBricks, C# Minimal APIs, Azure AD B2C
+- 💞️ I’m looking to collaborate on library code and devops automations
 - 📫 How to reach me 
   * Web: https://grax32.com
   * LinkedIn: https://www.linkedin.com/in/grax32/
